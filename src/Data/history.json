@@ -1,0 +1,41 @@
+[
+  {
+    "role": "intern",
+    "organisation": "IKK",
+    "startDate": "July, 2024",
+    "endDate": "Sept, 2024",
+    "experiences": [
+      "I have experience with SQL queries, Power BI dashboards, and ERP systems.",
+      "SQL: I create complex queries for data extraction and analysis.",
+      "Power BI: I design interactive dashboards to visualize key metrics.",
+      "ERP: I integrate systems, generate reports, and customize dashboards for different departments."
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "website contributor",
+    "organisation": "Raze",
+    "startDate": "April, 2025",
+    "endDate": "now",
+    "experiences": [
+      "As a web contributor, I created engaging and SEO-friendly content for websites and blogs.",
+      "I collaborated with designers and developers to ensure content aligned with web design and functionality.",
+      "I gained experience with CMS platforms like WordPress and learned basic HTML/CSS.",
+      "Additionally, I improved web page performance and user experience through troubleshooting and optimization."
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Account manager",
+    "organisation": "Al graphy",
+    "startDate": "Apr, 2022",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "As a contributor to a social media company, I created compelling and engaging content tailored to different platforms.",
+      "I worked closely with design and marketing teams to ensure content aligned with brand strategies and audience engagement goals.",
+      "I developed an understanding of social media trends, analytics, and performance metrics to optimize content reach.",
+      "Additionally, I helped manage campaigns, track performance, and adjust strategies to improve audience interaction and growth."
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

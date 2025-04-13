@@ -1,0 +1,26 @@
+[
+    {
+      "title": "portfolio Website",
+      "imageSrc": "pic",
+      "description": "Building a **portfolio website** enhanced my skills in **HTML**, **CSS**, **JavaScript**, and **React**. I focused on responsive design, showcasing projects, and integrating APIs. I optimized performance and SEO, and deployed the site using **GitHub Pages** or **Netlify**. This project strengthened my web development and design abilities.",
+      "skills": ["React", "CSS", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Sales Live Dashboard",
+      "imageSrc": "projects/project.png",
+      "description": "A **Sales Live Dashboard** displays real-time sales data and key metrics like revenue, top products, and sales by region. It features interactive filters and visualizations such as charts and graphs to help track performance and make data-driven decisions.",
+      "skills": ["SQL", "PowerBi", "ERP", "Python"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "java game",
+      "imageSrc": "projects/project.png",
+      "description": "From creating a **Rock, Paper, Scissors** game, you learn **conditional statements**, **user input handling**, **logic implementation**, **randomization**, and **loops**. It’s a great way to practice basic programming concepts and build simple interactive applications.",
+      "skills": ["JAVA" ],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
